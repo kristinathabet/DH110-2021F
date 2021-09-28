@@ -1,7 +1,7 @@
-# New York 
-## (your name, course info)
+# Heuristic Evaluation of New York 
+## (Kristina Thabet, DH 110)
 
-### assignment01: heuristic evaluation of Arizona
+### assignment01: Heuristic Evaluation of New York
 
 ---
 
